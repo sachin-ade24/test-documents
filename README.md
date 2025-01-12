@@ -1,3 +1,3 @@
 # test-documents
 
-Test Documents for the various tasks
+Test Documents for various tasks
